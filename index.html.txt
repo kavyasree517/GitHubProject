@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html> <!-- Main Branch Update -->
 <head>
     <title>My Git Project</title>
 </head>
 <body>
     <h1>Hello GitHub!</h1>
 </body>
-</html>
+<html> <!-- Main Branch Update -->
